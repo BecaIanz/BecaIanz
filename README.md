@@ -11,6 +11,8 @@ I'm a 19-year-old developer passionate about technology and continuous learning.
 I'm a communicative, curious and dedicated person who enjoys working with others, learning from challenges and constantly improving my skills.
 
 ✨ Always learning, always building.
+
+![Snake animation](https://raw.githubusercontent.com/BecaIanz/BecaIanz)
 <!--
 **BecaIanz/BecaIanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
