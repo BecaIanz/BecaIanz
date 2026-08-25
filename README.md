@@ -12,7 +12,7 @@ I'm a communicative, curious and dedicated person who enjoys working with others
 
 ✨ Always learning, always building.
 
-![Snake animation](https://raw.githubusercontent.com/BecaIanz/BecaIanz)
+![Snake animation](https://raw.githubusercontent.com/BecaIanz)
 <!--
 **BecaIanz/BecaIanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
